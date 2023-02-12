@@ -8,11 +8,11 @@
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
-• 🏆 I recently built a clone of Trello, **check it out**, it has everything! [Skello](https://skello.herokuapp.com)
+• 🏆 I recently built a clone of Trello, **check it out**, it has everything! [Nemo](https://nemo.onrender.com/)
 
-• 📫 You can reach me at **benamram.ori@gmail.com**
+• 📫 You can reach me at **yonatanbz6@gmail.com**
 
-• 💙 Fun fact: I love meditation, running, and drawing 🎨
+• 💙 Fun fact: I love Basketball, running, and music 🎸🎺🎹
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
